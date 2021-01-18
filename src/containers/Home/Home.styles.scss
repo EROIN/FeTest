@@ -1,0 +1,14 @@
+@import "../../styles/theme.scss";
+
+.wrapper {
+    min-height: 100%;
+    padding: 20px 25% 20px;
+    background-color: $primary-color;
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+}
+
+.title {
+
+}
